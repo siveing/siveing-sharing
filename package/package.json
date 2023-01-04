@@ -1,0 +1,24 @@
+{
+  "name": "siveing-sharing",
+  "version": "1.1.0",
+  "description": "sharing the social",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siveing/siveing-sharing.git"
+  },
+  "keywords": [
+    "sharing",
+    "telegram",
+    "social"
+  ],
+  "author": "siveing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siveing/siveing-sharing/issues"
+  },
+  "homepage": "https://github.com/siveing/siveing-sharing#readme"
+}
