@@ -1,7 +1,8 @@
 
 Demo
 ------------
-[DEMO](https://siveing.github.io/siveing-sharing/test-folder/)
+1.[DEMO](https://siveing.github.io/siveing-sharing/test-folder/)
+2.[EXPO or REACT](https://snack.expo.dev/@siveinghuy/button-with-telegram-share)
 
 Installation
 ------------
